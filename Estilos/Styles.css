@@ -37,7 +37,7 @@ p{
     padding: 1.5rem;
     border: 1px solid #798C6C;
     border-radius: 0.2rem;
-    transition: 0.5s;
+    transition: 3s;
 
 
 }
@@ -51,4 +51,5 @@ header{
     align-items: center;
     flex-direction: column;
 }
+
 
