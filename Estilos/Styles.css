@@ -49,7 +49,9 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-aling: center;
     flex-direction: column;
 }
+
 
 
